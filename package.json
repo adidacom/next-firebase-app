@@ -32,7 +32,7 @@
     "next-fonts": "^0.16.0",
     "next-optimized-images": "^2.3.1",
     "next-redux-wrapper": "^2.1.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "nprogress": "^0.2.0",
     "react": "^16.8.1",
     "react-addons-shallow-compare": "^15.6.2",
